@@ -2,6 +2,6 @@ print('{:=^100}'.format('Bem vindo ao desafio 29! Eu calculo suas mutas baseado 
 velocidade = int(input('Qual o valor da sua velocidade na via? '))
 if velocidade > 80:
     multa = (velocidade - 80) * 7
-    print(f'Você ultrapassou o limite de 80km/h! Sua multa ficou de {multa} reais!')
+    print(f'\33[31mVocê ultrapassou o limite de 80km/h!\33[m Sua multa ficou de {multa} reais!')
 else:
-    print('Muito bem, sua velocidade está adequada à via!')
+    print('\33[32mMuito bem, sua velocidade está adequada à via!\33[m')

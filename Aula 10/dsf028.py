@@ -3,6 +3,6 @@ print(f'{'Bem vindo ao desafio 28! Para ganhar o desafio, você tentará adivinh
 numaleatorio = random.randint(0,5)
 numescolhido = int(input('Digite um número de 0-5: '))
 if numescolhido == numaleatorio:
-    print('Parabéns você acertou! O número correto realmente era {}!'.format(numescolhido))
+    print('Parabéns você \033[32macertou\33[m! O número correto realmente era {}!'.format(numescolhido))
 else:
-    print('Você errou! O número correto era {}'.format(numaleatorio))
+    print(f'Você \033[31merrou!\033[m O número correto era \33[4;32m{numescolhido}\33[m')
