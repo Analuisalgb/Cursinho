@@ -4,16 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02774fc3-7548-43b1-990e-e024bf098bae" name="Changes" comment="Aula 10">
+    <list default="true" id="02774fc3-7548-43b1-990e-e024bf098bae" name="Changes" comment="Aula extra">
+      <change afterPath="$PROJECT_DIR$/Mundo 02/Aula 12/ganhar.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mundo 02/Aula 12/musica2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mundo 02/Aula 12/perder.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mundo 02/Aula 12/tambor.mp3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 10/dsf028.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 10/dsf028.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 10/dsf029.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 10/dsf029.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 10/dsf030.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 10/dsf030.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 10/dsf031.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 10/dsf031.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 10/dsf032.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 10/dsf032.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 10/dsf033.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 10/dsf033.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 10/dsf035.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 10/dsf035.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 11/teste001.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 11/teste001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo 02/Aula 12/dsf045.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo 02/Aula 12/dsf045.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +59,7 @@
     "Python.Aula 06(02).executor": "Run",
     "Python.Aula 06.executor": "Run",
     "Python.Testes aula.executor": "Run",
+    "Python.aula 12.executor": "Run",
     "Python.d20.executor": "Run",
     "Python.desafio3.executor": "Run",
     "Python.desafio4.executor": "Run",
@@ -97,6 +95,16 @@
     "Python.dsf033.executor": "Run",
     "Python.dsf034.executor": "Run",
     "Python.dsf035.executor": "Run",
+    "Python.dsf036.executor": "Run",
+    "Python.dsf037.executor": "Run",
+    "Python.dsf038.executor": "Run",
+    "Python.dsf039.executor": "Run",
+    "Python.dsf040.executor": "Run",
+    "Python.dsf041.executor": "Run",
+    "Python.dsf042.executor": "Run",
+    "Python.dsf043.executor": "Run",
+    "Python.dsf044.executor": "Run",
+    "Python.dsf045.executor": "Run",
     "Python.ex001.executor": "Run",
     "Python.ex002.executor": "Run",
     "Python.teste.executor": "Run",
@@ -113,7 +121,7 @@
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "D:/PycharmProjects/Cursinho/Aula 07",
+    "last_opened_file_path": "D:/PycharmProjects/Cursinho/Mundo 02/Aula 12",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -127,10 +135,13 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\Cursinho\Mundo 02\Aula 12" />
       <recent name="D:\PycharmProjects\Cursinho\Aula 07" />
       <recent name="D:\PycharmProjects\Cursinho" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\Cursinho\Mundo 02\Aula 12" />
+      <recent name="D:\PycharmProjects\Cursinho\Mundo 01" />
       <recent name="D:\PycharmProjects\Cursinho\Aula 06" />
     </key>
   </component>
@@ -158,6 +169,9 @@
       <workItem from="1769541710953" duration="6313000" />
       <workItem from="1770063364696" duration="6463000" />
       <workItem from="1770146368216" duration="3234000" />
+      <workItem from="1770662307327" duration="8623000" />
+      <workItem from="1770742361149" duration="2033000" />
+      <workItem from="1770830157376" duration="3020000" />
     </task>
     <task id="LOCAL-00001" summary="Aula 09 – eAula 09 – exercícios">
       <option name="closed" value="true" />
@@ -199,7 +213,23 @@
       <option name="project" value="LOCAL" />
       <updated>1770146856127</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Aula extra">
+      <option name="closed" value="true" />
+      <created>1770662368303</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1770662368303</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Aula extra">
+      <option name="closed" value="true" />
+      <created>1770662385377</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1770662385377</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -236,18 +266,19 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Aula 09 – eAula 09 – exercícios" />
     <MESSAGE value="Aula 10" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aula 10" />
+    <MESSAGE value="Aula extra" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aula extra" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Aula 06/Aula 06(01).py</url>
+          <url>file://$PROJECT_DIR$/Mundo 01/Aula 06/Aula 06(01).py</url>
           <line>2</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Aula 09/teste.py</url>
+          <url>file://$PROJECT_DIR$/Mundo 01/Aula 09/teste.py</url>
           <line>2</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
@@ -257,50 +288,61 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Cursinho$dsf009.coverage" NAME="dsf009 Coverage Results" MODIFIED="1769200235340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 07" />
     <SUITE FILE_PATH="coverage/Cursinho$dsf006.coverage" NAME="dsf006 Coverage Results" MODIFIED="1769199242703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 07" />
-    <SUITE FILE_PATH="coverage/Cursinho$dsf032.coverage" NAME="dsf032 Coverage Results" MODIFIED="1770148903224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 10" />
     <SUITE FILE_PATH="coverage/Cursinho$dsf015.coverage" NAME="dsf015 Coverage Results" MODIFIED="1769203024481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 07" />
-    <SUITE FILE_PATH="coverage/Cursinho$dsf035.coverage" NAME="dsf035 Coverage Results" MODIFIED="1770149009714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 10" />
-    <SUITE FILE_PATH="coverage/Cursinho$dsf011_2_.coverage" NAME="dsf011(2) Coverage Results" MODIFIED="1769201354160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 07" />
-    <SUITE FILE_PATH="coverage/Cursinho$dsf029.coverage" NAME="dsf029 Coverage Results" MODIFIED="1770147797606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 10" />
     <SUITE FILE_PATH="coverage/Cursinho$dsf012.coverage" NAME="dsf012 Coverage Results" MODIFIED="1769201584361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 07" />
-    <SUITE FILE_PATH="coverage/Cursinho$dsf021.coverage" NAME="dsf021 Coverage Results" MODIFIED="1769468518060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 08" />
-    <SUITE FILE_PATH="coverage/Cursinho$001.coverage" NAME="001 Coverage Results" MODIFIED="1769196182774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 07" />
-    <SUITE FILE_PATH="coverage/Cursinho$ex001.coverage" NAME="ex001 Coverage Results" MODIFIED="1769105080134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Cursinho$dsf021.coverage" NAME="dsf021 Coverage Results" MODIFIED="1770831623873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Mundo 01/Aula 08" />
     <SUITE FILE_PATH="coverage/Cursinho$dsf033.coverage" NAME="dsf033 Coverage Results" MODIFIED="1770147699539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 10" />
     <SUITE FILE_PATH="coverage/Cursinho$dsf030.coverage" NAME="dsf030 Coverage Results" MODIFIED="1770148617151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 10" />
-    <SUITE FILE_PATH="coverage/Cursinho$dsf007.coverage" NAME="dsf007 Coverage Results" MODIFIED="1769199439811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 07" />
-    <SUITE FILE_PATH="coverage/Cursinho$Aula_06_01_.coverage" NAME="Aula 06(01) Coverage Results" MODIFIED="1769109477794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 06" />
     <SUITE FILE_PATH="coverage/Cursinho$dsf024.coverage" NAME="dsf024 Coverage Results" MODIFIED="1769547977222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 09" />
-    <SUITE FILE_PATH="coverage/Cursinho$Testes_aula.coverage" NAME="Testes aula Coverage Results" MODIFIED="1769198943111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 07" />
-    <SUITE FILE_PATH="coverage/Cursinho$d20.coverage" NAME="d20 Coverage Results" MODIFIED="1769464376625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 08" />
+    <SUITE FILE_PATH="coverage/Cursinho$dsf039.coverage" NAME="dsf039 Coverage Results" MODIFIED="1770670961664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Mundo 02/Aula 12" />
+    <SUITE FILE_PATH="coverage/Cursinho$dsf042.coverage" NAME="dsf042 Coverage Results" MODIFIED="1770670164462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Mundo 02/Aula 12" />
+    <SUITE FILE_PATH="coverage/Cursinho$dsf045.coverage" NAME="dsf045 Coverage Results" MODIFIED="1770833152235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Mundo 02/Aula 12" />
     <SUITE FILE_PATH="coverage/Cursinho$dsf018.coverage" NAME="dsf018 Coverage Results" MODIFIED="1769466668755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 08" />
     <SUITE FILE_PATH="coverage/Cursinho$dsf027.coverage" NAME="dsf027 Coverage Results" MODIFIED="1769547331975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 09" />
-    <SUITE FILE_PATH="coverage/Cursinho$teste10.coverage" NAME="teste10 Coverage Results" MODIFIED="1770065465585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 10" />
+    <SUITE FILE_PATH="coverage/Cursinho$dsf036.coverage" NAME="dsf036 Coverage Results" MODIFIED="1770664557769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Mundo 02/Aula 12" />
     <SUITE FILE_PATH="coverage/Cursinho$Aula_06.coverage" NAME="Aula 06 Coverage Results" MODIFIED="1769108798026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Cursinho$dsf010.coverage" NAME="dsf010 Coverage Results" MODIFIED="1769200622489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 07" />
     <SUITE FILE_PATH="coverage/Cursinho$dsf022.coverage" NAME="dsf022 Coverage Results" MODIFIED="1769547493191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 09" />
     <SUITE FILE_PATH="coverage/Cursinho$desafio3.coverage" NAME="desafio3 Coverage Results" MODIFIED="1769110328996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 06" />
-    <SUITE FILE_PATH="coverage/Cursinho$dsf013.coverage" NAME="dsf013 Coverage Results" MODIFIED="1769201772442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 07" />
     <SUITE FILE_PATH="coverage/Cursinho$dsf028.coverage" NAME="dsf028 Coverage Results" MODIFIED="1770148457266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 10" />
     <SUITE FILE_PATH="coverage/Cursinho$dsf034.coverage" NAME="dsf034 Coverage Results" MODIFIED="1770068807953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 10" />
     <SUITE FILE_PATH="coverage/Cursinho$dsf016.coverage" NAME="dsf016 Coverage Results" MODIFIED="1769465706884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 08" />
+    <SUITE FILE_PATH="coverage/Cursinho$dsf040.coverage" NAME="dsf040 Coverage Results" MODIFIED="1770668945518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Mundo 02/Aula 12" />
+    <SUITE FILE_PATH="coverage/Cursinho$dsf017.coverage" NAME="dsf017 Coverage Results" MODIFIED="1769466115699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 08" />
+    <SUITE FILE_PATH="coverage/Cursinho$Aula_06_02_.coverage" NAME="Aula 06(02) Coverage Results" MODIFIED="1769109982829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 06" />
+    <SUITE FILE_PATH="coverage/Cursinho$dsf011.coverage" NAME="dsf011 Coverage Results" MODIFIED="1769201254628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 07" />
+    <SUITE FILE_PATH="coverage/Cursinho$dsf005.coverage" NAME="dsf005 Coverage Results" MODIFIED="1769198957221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 07" />
+    <SUITE FILE_PATH="coverage/Cursinho$desafio4.coverage" NAME="desafio4 Coverage Results" MODIFIED="1769110889328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 06" />
+    <SUITE FILE_PATH="coverage/Cursinho$testee.coverage" NAME="testee Coverage Results" MODIFIED="1769197609808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 07" />
+    <SUITE FILE_PATH="coverage/Cursinho$aula_12.coverage" NAME="aula 12 Coverage Results" MODIFIED="1770663406935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Mundo 02/Aula 12" />
+    <SUITE FILE_PATH="coverage/Cursinho$teste.coverage" NAME="teste Coverage Results" MODIFIED="1769544159275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 09" />
+    <SUITE FILE_PATH="coverage/Cursinho$dsf023.coverage" NAME="dsf023 Coverage Results" MODIFIED="1769547974782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 09" />
+    <SUITE FILE_PATH="coverage/Cursinho$teste08.coverage" NAME="teste08 Coverage Results" MODIFIED="1770668039717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Mundo 01/Aula 08" />
+    <SUITE FILE_PATH="coverage/Cursinho$dsf032.coverage" NAME="dsf032 Coverage Results" MODIFIED="1770148903224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 10" />
+    <SUITE FILE_PATH="coverage/Cursinho$dsf035.coverage" NAME="dsf035 Coverage Results" MODIFIED="1770149009714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 10" />
+    <SUITE FILE_PATH="coverage/Cursinho$dsf041.coverage" NAME="dsf041 Coverage Results" MODIFIED="1770669326767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Mundo 02/Aula 12" />
+    <SUITE FILE_PATH="coverage/Cursinho$dsf011_2_.coverage" NAME="dsf011(2) Coverage Results" MODIFIED="1769201354160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 07" />
+    <SUITE FILE_PATH="coverage/Cursinho$dsf029.coverage" NAME="dsf029 Coverage Results" MODIFIED="1770147797606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 10" />
+    <SUITE FILE_PATH="coverage/Cursinho$dsf044.coverage" NAME="dsf044 Coverage Results" MODIFIED="1770743557296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Mundo 02/Aula 12" />
+    <SUITE FILE_PATH="coverage/Cursinho$dsf038.coverage" NAME="dsf038 Coverage Results" MODIFIED="1770667247345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Mundo 02/Aula 12" />
+    <SUITE FILE_PATH="coverage/Cursinho$001.coverage" NAME="001 Coverage Results" MODIFIED="1769196182774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 07" />
+    <SUITE FILE_PATH="coverage/Cursinho$ex001.coverage" NAME="ex001 Coverage Results" MODIFIED="1769105080134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Cursinho$dsf007.coverage" NAME="dsf007 Coverage Results" MODIFIED="1769199439811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 07" />
+    <SUITE FILE_PATH="coverage/Cursinho$Aula_06_01_.coverage" NAME="Aula 06(01) Coverage Results" MODIFIED="1769109477794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 06" />
+    <SUITE FILE_PATH="coverage/Cursinho$d20.coverage" NAME="d20 Coverage Results" MODIFIED="1769464376625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 08" />
+    <SUITE FILE_PATH="coverage/Cursinho$Testes_aula.coverage" NAME="Testes aula Coverage Results" MODIFIED="1769198943111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 07" />
+    <SUITE FILE_PATH="coverage/Cursinho$teste10.coverage" NAME="teste10 Coverage Results" MODIFIED="1770065465585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 10" />
+    <SUITE FILE_PATH="coverage/Cursinho$dsf010.coverage" NAME="dsf010 Coverage Results" MODIFIED="1769200622489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 07" />
+    <SUITE FILE_PATH="coverage/Cursinho$dsf013.coverage" NAME="dsf013 Coverage Results" MODIFIED="1769201772442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 07" />
     <SUITE FILE_PATH="coverage/Cursinho$dsf019.coverage" NAME="dsf019 Coverage Results" MODIFIED="1769467463771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 08" />
     <SUITE FILE_PATH="coverage/Cursinho$dsf031.coverage" NAME="dsf031 Coverage Results" MODIFIED="1770148677056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 10" />
     <SUITE FILE_PATH="coverage/Cursinho$ex002.coverage" NAME="ex002 Coverage Results" MODIFIED="1769105817394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Cursinho$dsf025.coverage" NAME="dsf025 Coverage Results" MODIFIED="1769546418751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 09" />
-    <SUITE FILE_PATH="coverage/Cursinho$dsf017.coverage" NAME="dsf017 Coverage Results" MODIFIED="1769466115699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 08" />
     <SUITE FILE_PATH="coverage/Cursinho$dsf014.coverage" NAME="dsf014 Coverage Results" MODIFIED="1769202751470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 07" />
-    <SUITE FILE_PATH="coverage/Cursinho$Aula_06_02_.coverage" NAME="Aula 06(02) Coverage Results" MODIFIED="1769109982829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 06" />
+    <SUITE FILE_PATH="coverage/Cursinho$dsf043.coverage" NAME="dsf043 Coverage Results" MODIFIED="1770670602097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Mundo 02/Aula 12" />
     <SUITE FILE_PATH="coverage/Cursinho$teste001.coverage" NAME="teste001 Coverage Results" MODIFIED="1770147541741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 11" />
     <SUITE FILE_PATH="coverage/Cursinho$dsf020.coverage" NAME="dsf020 Coverage Results" MODIFIED="1769468249927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 08" />
-    <SUITE FILE_PATH="coverage/Cursinho$dsf011.coverage" NAME="dsf011 Coverage Results" MODIFIED="1769201254628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 07" />
     <SUITE FILE_PATH="coverage/Cursinho$dsf026.coverage" NAME="dsf026 Coverage Results" MODIFIED="1769548405148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 09" />
-    <SUITE FILE_PATH="coverage/Cursinho$dsf005.coverage" NAME="dsf005 Coverage Results" MODIFIED="1769198957221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 07" />
-    <SUITE FILE_PATH="coverage/Cursinho$desafio4.coverage" NAME="desafio4 Coverage Results" MODIFIED="1769110889328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 06" />
+    <SUITE FILE_PATH="coverage/Cursinho$dsf037.coverage" NAME="dsf037 Coverage Results" MODIFIED="1770666918973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Mundo 02/Aula 12" />
     <SUITE FILE_PATH="coverage/Cursinho$dsf008.coverage" NAME="dsf008 Coverage Results" MODIFIED="1769199773120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 07" />
-    <SUITE FILE_PATH="coverage/Cursinho$testee.coverage" NAME="testee Coverage Results" MODIFIED="1769197609808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 07" />
-    <SUITE FILE_PATH="coverage/Cursinho$teste.coverage" NAME="teste Coverage Results" MODIFIED="1769544159275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 09" />
-    <SUITE FILE_PATH="coverage/Cursinho$dsf023.coverage" NAME="dsf023 Coverage Results" MODIFIED="1769547974782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 09" />
-    <SUITE FILE_PATH="coverage/Cursinho$teste08.coverage" NAME="teste08 Coverage Results" MODIFIED="1769465402291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Aula 08" />
   </component>
 </project>

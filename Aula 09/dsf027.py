@@ -1,5 +1,0 @@
-print(f'{'Bem vindo ao desafio 27!':=^100}')
-nome = str(input('Qual o seu nome completo? '))
-sep = nome.split()
-tamanho = int(len(sep))
-print('O seu primeiro nome é {} e o último é {}'.format(sep[0],sep[tamanho - 1]))

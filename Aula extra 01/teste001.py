@@ -1,1 +1,0 @@
-print('\033[0;33;41mMcdonalds!\033[m')

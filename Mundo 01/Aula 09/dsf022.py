@@ -1,0 +1,7 @@
+print(f'{'Bem vindo ao desafio 19!':=^100}')
+nome = str(input('Qual o seu nome completo? ')).strip()
+separado = nome.split()
+print(f'Seu nome com todas as letras maiúsculas é: {nome.upper()}!')
+print(f'Seu nome com todas as letras minúsculas é: {nome.lower()}!')
+print(f'Você sabia que seu nome tem {len(nome.replace(' ','' ))} letras?')
+print(f'O seu primeiro nome tem {len(separado[0])} letras!')
