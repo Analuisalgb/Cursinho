@@ -6,10 +6,10 @@ print(f'{'\33[34m=-\33[m'*50}')
 preco = float(input('Qual o valor do seu pagamento? '))
 print('=-' * 20)
 metodo = str(input('Qual o seu método de pagamento? \n'
-                   '1- À vista dinheiro/cheque \n'
-                   '2- À vista no cartão (Débito) \n'
-                   '3- Em até 2x no cartão (Crédito)\n'
-                   '4- 3x ou mais no cartão (Crédito)\n'
+                   '[1] À vista dinheiro/cheque \n'
+                   '[2] À vista no cartão (Débito) \n'
+                   '[3] Em até 2x no cartão (Crédito)\n'
+                   '[4] 3x ou mais no cartão (Crédito)\n'
                    ': ')).strip()
 print('=-'*20)
 if metodo == "1":

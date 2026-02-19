@@ -6,7 +6,7 @@ salario = float(input('Qual o valor do seu salário mensal? '))
 anos = int(input('Em quantos anos deseja quitar seu empréstimo? '))
 meses = anos * 12
 prestacao = vcasa / meses
-if prestacao > salario*0.3:
+if prestacao >= salario*0.3:
     print('\033[31mÉ impossível a realização desse empréstimo!\033[m')
 else:
     print(f'Uma casa de {vcasa} reais quitada em {anos} anos ficará com uma prestação mensal de {prestacao:.2f} reais!')
