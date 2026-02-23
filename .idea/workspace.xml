@@ -5,23 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02774fc3-7548-43b1-990e-e024bf098bae" name="Changes" comment="Aula 12">
-      <change afterPath="$PROJECT_DIR$/Mundo 02/Aula 13/dsf046.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 02/Aula 13/dsf047.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 02/Aula 13/dsf048.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 02/Aula 13/dsf049.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 02/Aula 13/dsf050.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 02/Aula 13/dsf051.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 02/Aula 13/dsf052.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 02/Aula 13/dsf053.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 02/Aula 13/dsf054.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 02/Aula 13/fogos.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 02/Aula 13/testes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mundo 02/Aula 13/dsf055(2).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mundo 02/Aula 13/dsf055.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mundo 02/Aula 13/dsf056.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mundo 02/Aula 12/dsf036.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo 02/Aula 12/dsf036.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mundo 02/Aula 12/dsf037.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo 02/Aula 12/dsf037.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mundo 02/Aula 12/dsf039.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo 02/Aula 12/dsf039.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mundo 02/Aula 12/dsf041.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo 02/Aula 12/dsf041.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mundo 02/Aula 12/dsf044.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo 02/Aula 12/dsf044.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo 02/Aula 13/dsf050.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo 02/Aula 13/dsf050.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo 02/Aula 13/dsf053.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo 02/Aula 13/dsf053.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo 02/Aula 13/dsf054.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo 02/Aula 13/dsf054.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,6 +115,9 @@
     "Python.dsf052.executor": "Run",
     "Python.dsf053.executor": "Run",
     "Python.dsf054.executor": "Run",
+    "Python.dsf055(2).executor": "Run",
+    "Python.dsf055.executor": "Run",
+    "Python.dsf056.executor": "Run",
     "Python.ex001.executor": "Run",
     "Python.ex002.executor": "Run",
     "Python.teste.executor": "Run",
@@ -169,7 +162,6 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.29346.308" />
         <option value="bundled-python-sdk-ca5e2b39c7df-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.308" />
       </set>
     </attachedChunks>
@@ -194,7 +186,8 @@
       <workItem from="1770742361149" duration="2033000" />
       <workItem from="1770830157376" duration="3116000" />
       <workItem from="1771509470094" duration="3810000" />
-      <workItem from="1771521569118" duration="4692000" />
+      <workItem from="1771521569118" duration="4817000" />
+      <workItem from="1771868694253" duration="41000" />
     </task>
     <task id="LOCAL-00001" summary="Aula 09 – eAula 09 – exercícios">
       <option name="closed" value="true" />
@@ -268,7 +261,31 @@
       <option name="project" value="LOCAL" />
       <updated>1770833225476</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Aula 12">
+      <option name="closed" value="true" />
+      <created>1771526360937</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1771526360937</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Aula 12">
+      <option name="closed" value="true" />
+      <created>1771526367201</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1771526367201</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Aula 12">
+      <option name="closed" value="true" />
+      <created>1771526394122</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1771526394122</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

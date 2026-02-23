@@ -1,6 +1,6 @@
 maiores = 0
 menores = 0
-for c in range(1,8):
+for c in range(0,7):
     idade = int(input('Digite a sua idade: '))
     if idade >= 18:
         maiores = maiores + 1
