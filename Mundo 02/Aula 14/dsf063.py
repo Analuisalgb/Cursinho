@@ -12,6 +12,8 @@ while elementos > 0:
     else:
         print(' -> ', end='')
     numnovo = numero + numant
+    if numero == 0:
+        numnovo = 1
     numant = numero
     numero = numnovo
     elementos -=1

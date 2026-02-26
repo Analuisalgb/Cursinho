@@ -12,3 +12,6 @@ while jogador != robo:
         print('Jogada inválida!')
         cont -= 1
 print(f'Ah não, você acertou depois de {cont} tentativas! Você falou {jogador} e eu falei {robo}!')
+
+#depois de analisar, vi que o código funciona mas pode ser limpo, a exemplo da definiç~çoa da variável do robo e do jogador antes, mas
+#de resto ta topzera
