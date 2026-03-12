@@ -5,12 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02774fc3-7548-43b1-990e-e024bf098bae" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change afterPath="$PROJECT_DIR$/Mundo 02/Aula 15/dsf070.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 02/Aula 15/dsf071.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 02/Aula 15/remake071.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mundo 02/Aula 15/teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mundo 03/Aula 16/dsf072.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mundo 03/Aula 16/dsf073.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mundo 03/Aula 16/dsf074.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mundo 03/Aula 16/dsf075.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mundo 03/Aula 16/dsf076.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mundo 03/Aula 16/dsf077.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mundo 03/Aula 16/dsf077remake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mundo 03/Aula 16/teste.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mundo 02/Aula 15/dsf069.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo 02/Aula 15/dsf069.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,6 +135,13 @@
     "Python.dsf069.executor": "Run",
     "Python.dsf070.executor": "Run",
     "Python.dsf071.executor": "Run",
+    "Python.dsf072.executor": "Run",
+    "Python.dsf073.executor": "Run",
+    "Python.dsf074.executor": "Run",
+    "Python.dsf075.executor": "Run",
+    "Python.dsf076.executor": "Run",
+    "Python.dsf077.executor": "Run",
+    "Python.dsf077remake.executor": "Run",
     "Python.ex001.executor": "Run",
     "Python.ex002.executor": "Run",
     "Python.remake071.executor": "Run",
@@ -341,7 +351,23 @@
       <option name="project" value="LOCAL" />
       <updated>1772649908902</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1772655142716</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1772655142716</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1772655211208</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1772655211208</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
