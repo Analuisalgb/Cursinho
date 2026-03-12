@@ -5,5 +5,5 @@ print('=-'*50)
 for c in range(0,9,2):
     print(f'{produtos[c]:.<30} R$', end='')
     c += 1
-    print(f'{produtos[c]: >10}')
+    print(f'{produtos[c]: >10.2f}')
 print('=-'*50)
