@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02774fc3-7548-43b1-990e-e024bf098bae" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+    <list default="true" id="02774fc3-7548-43b1-990e-e024bf098bae" name="Changes" comment="Merge remote-tracking branch 'origin/master'">
+      <change afterPath="$PROJECT_DIR$/Mundo 03/Aula 17/dsf078.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mundo 03/Aula 17/dsf079.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mundo 03/Aula 17/testes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mundo 03/Aula 16/dsf074.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo 03/Aula 16/dsf074.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mundo 03/Aula 16/dsf075.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo 03/Aula 16/dsf075.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mundo 03/Aula 16/dsf076.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mundo 03/Aula 16/dsf076.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mundo 03/Aula 16/dsf077remake.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,125 +50,127 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Aula 06(01).executor&quot;: &quot;Debug&quot;,
-    &quot;Python.Aula 06(02).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Aula 06.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Testes aula.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula 12.executor&quot;: &quot;Run&quot;,
-    &quot;Python.d20.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.desafio4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf005.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf006.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf007.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf008.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf009.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf010.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf011(2).executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf011.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf012.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf013.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf014.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf015.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf016.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf017.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf018.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf019.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf020.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf021.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf022.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf023.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf024.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf025.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf026.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf027.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf028.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf029.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf030.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf031.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf032.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf033.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf034.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf035.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf036.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf037.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf038.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf039.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf040.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf041.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf042.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf043.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf044.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf045.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf046.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf047.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf048.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf049.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf050.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf051.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf052.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf053.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf054.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf055(2).executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf055.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf056.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf057.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf058.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf059.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf060.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf061.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf062.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf063.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf064.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf065.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf066.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf067.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf068.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf069.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf070.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf071.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf072.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf073.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf074.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf075.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf076.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf077.executor&quot;: &quot;Run&quot;,
-    &quot;Python.dsf077remake.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex002.executor&quot;: &quot;Run&quot;,
-    &quot;Python.remake071.executor&quot;: &quot;Run&quot;,
-    &quot;Python.teste.executor&quot;: &quot;Run&quot;,
-    &quot;Python.teste001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.teste08.executor&quot;: &quot;Run&quot;,
-    &quot;Python.teste10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.testee.executor&quot;: &quot;Run&quot;,
-    &quot;Python.testepy2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.testes.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/PycharmProjects/Cursinho/Mundo 02/Aula 12&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.001.executor": "Run",
+    "Python.Aula 06(01).executor": "Debug",
+    "Python.Aula 06(02).executor": "Run",
+    "Python.Aula 06.executor": "Run",
+    "Python.Testes aula.executor": "Run",
+    "Python.aula 12.executor": "Run",
+    "Python.d20.executor": "Run",
+    "Python.desafio3.executor": "Run",
+    "Python.desafio4.executor": "Run",
+    "Python.dsf005.executor": "Run",
+    "Python.dsf006.executor": "Run",
+    "Python.dsf007.executor": "Run",
+    "Python.dsf008.executor": "Run",
+    "Python.dsf009.executor": "Run",
+    "Python.dsf010.executor": "Run",
+    "Python.dsf011(2).executor": "Run",
+    "Python.dsf011.executor": "Run",
+    "Python.dsf012.executor": "Run",
+    "Python.dsf013.executor": "Run",
+    "Python.dsf014.executor": "Run",
+    "Python.dsf015.executor": "Run",
+    "Python.dsf016.executor": "Run",
+    "Python.dsf017.executor": "Run",
+    "Python.dsf018.executor": "Run",
+    "Python.dsf019.executor": "Run",
+    "Python.dsf020.executor": "Run",
+    "Python.dsf021.executor": "Run",
+    "Python.dsf022.executor": "Run",
+    "Python.dsf023.executor": "Run",
+    "Python.dsf024.executor": "Run",
+    "Python.dsf025.executor": "Run",
+    "Python.dsf026.executor": "Run",
+    "Python.dsf027.executor": "Run",
+    "Python.dsf028.executor": "Run",
+    "Python.dsf029.executor": "Run",
+    "Python.dsf030.executor": "Run",
+    "Python.dsf031.executor": "Run",
+    "Python.dsf032.executor": "Run",
+    "Python.dsf033.executor": "Run",
+    "Python.dsf034.executor": "Run",
+    "Python.dsf035.executor": "Run",
+    "Python.dsf036.executor": "Run",
+    "Python.dsf037.executor": "Run",
+    "Python.dsf038.executor": "Run",
+    "Python.dsf039.executor": "Run",
+    "Python.dsf040.executor": "Run",
+    "Python.dsf041.executor": "Run",
+    "Python.dsf042.executor": "Run",
+    "Python.dsf043.executor": "Run",
+    "Python.dsf044.executor": "Run",
+    "Python.dsf045.executor": "Run",
+    "Python.dsf046.executor": "Run",
+    "Python.dsf047.executor": "Run",
+    "Python.dsf048.executor": "Run",
+    "Python.dsf049.executor": "Run",
+    "Python.dsf050.executor": "Run",
+    "Python.dsf051.executor": "Run",
+    "Python.dsf052.executor": "Run",
+    "Python.dsf053.executor": "Run",
+    "Python.dsf054.executor": "Run",
+    "Python.dsf055(2).executor": "Run",
+    "Python.dsf055.executor": "Run",
+    "Python.dsf056.executor": "Run",
+    "Python.dsf057.executor": "Run",
+    "Python.dsf058.executor": "Run",
+    "Python.dsf059.executor": "Run",
+    "Python.dsf060.executor": "Run",
+    "Python.dsf061.executor": "Run",
+    "Python.dsf062.executor": "Run",
+    "Python.dsf063.executor": "Run",
+    "Python.dsf064.executor": "Run",
+    "Python.dsf065.executor": "Run",
+    "Python.dsf066.executor": "Run",
+    "Python.dsf067.executor": "Run",
+    "Python.dsf068.executor": "Run",
+    "Python.dsf069.executor": "Run",
+    "Python.dsf070.executor": "Run",
+    "Python.dsf071.executor": "Run",
+    "Python.dsf072.executor": "Run",
+    "Python.dsf073.executor": "Run",
+    "Python.dsf074.executor": "Run",
+    "Python.dsf075.executor": "Run",
+    "Python.dsf076.executor": "Run",
+    "Python.dsf077.executor": "Run",
+    "Python.dsf077remake.executor": "Run",
+    "Python.dsf078.executor": "Run",
+    "Python.dsf079.executor": "Run",
+    "Python.ex001.executor": "Run",
+    "Python.ex002.executor": "Run",
+    "Python.remake071.executor": "Run",
+    "Python.teste.executor": "Run",
+    "Python.teste001.executor": "Run",
+    "Python.teste08.executor": "Run",
+    "Python.teste10.executor": "Run",
+    "Python.testee.executor": "Run",
+    "Python.testepy2.executor": "Run",
+    "Python.testes.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "D:/PycharmProjects/Cursinho/Mundo 02/Aula 12",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "configurable.group.tools",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\PycharmProjects\Cursinho\Mundo 02\Aula 12" />
@@ -378,7 +381,23 @@
       <option name="project" value="LOCAL" />
       <updated>1773326507625</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1773327861801</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1773327861801</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1773327870804</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1773327870804</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -418,7 +437,8 @@
     <MESSAGE value="Aula extra" />
     <MESSAGE value="Aula 12" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
