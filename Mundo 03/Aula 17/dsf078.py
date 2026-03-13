@@ -15,6 +15,7 @@ if valores.count(max(valores)) > 1:
         print(f'e {valores.index(max(valores)) + contwhile}', end=' ')
     print('')
 print(f'E o menor valor digitado foi: {min(valores)} na posição {valores.index(min(valores)) + 1}', end=' ')
+contwhile = 1
 if valores.count(min(valores)) > 1:
     while valores.count(min(valores)) > 1:
         contwhile += 1

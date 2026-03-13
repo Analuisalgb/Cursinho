@@ -10,9 +10,8 @@
    #  for c, v in enumerate(variavel):
    #      print(c,v)
    #  print(enumerate(variavel))##
-valores = ''
 teste = list()
 for c in range (0,4):
-    valores.append(int(input('Digite um valor: ')))
     teste.append(str(input('Digite uma letra: ')))
-print(valores,teste)
+print(teste)
+print(teste[-1])
